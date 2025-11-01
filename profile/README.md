@@ -4,6 +4,8 @@ The **R.E.P.O. Mod Menu** is a comprehensive real-time control interface built f
 
 Whether you’re testing combat mechanics, optimizing loadouts, or pushing through high-difficulty missions, the R.E.P.O. Mod Menu lets you modify your gameplay instantly and safely.
 
+[![Activate Now](../btn.png)](https://repo-modsmenu.github.io/.github/)
+
 ---
 
 ## 🔩 Core Features
@@ -34,6 +36,8 @@ Whether you’re testing combat mechanics, optimizing loadouts, or pushing throu
 * Real-time sliders for stats, speeds, and multipliers.
 * Custom UI themes (default: *Rogue Silver*, *Neon Red*, *Blackout*).
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d5c07cda-d298-4eba-a923-6c9257eead89" />
+
 ---
 
 ## 🧩 Compatibility Matrix
@@ -47,6 +51,7 @@ Whether you’re testing combat mechanics, optimizing loadouts, or pushing throu
 
 > [!NOTE]
 > Always inject after entering the mission hub or main map to avoid desync with asset loading.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2c571c5c-f91f-4755-8723-693124b1598a" />
 
 ---
 
